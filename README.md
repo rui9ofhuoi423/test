@@ -53,3 +53,11 @@
   </tr>
 </table>
 </div>
+Instructions
+Drag and drop the `materials` and `resource` folders into your HUD's directory.
+Go into the `_choose_your_option_` folder and open the folder for your desired option.
+Drag and drop the `materials` folder from your chosen option into your HUD's directory.
+Open your HUD's `...\resource\ui\hudplayerclass.res` file with Notepad and add `#base "speedometer.res"` at the very top of the file.
+Credits
+Original idea and concept by JackBoi https://www.teamfortress.tv/61625/speedometer-in-any-hud
+Speedo code by bakapear https://github.com/bakapear/hudmods
