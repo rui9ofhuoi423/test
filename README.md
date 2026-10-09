@@ -1,6 +1,6 @@
 <h1 align="center">Horizontal Velocity Speedometer for Any TF2 HUD</h1>
 <p align="center">
-  A modified version of JackBoi's <a href="https://www.teamfortress.tv/61625/speedometer-in-any-hud">speedometer</a> that displays horizontal velocity exclusively, making it easier to track speed gained through strafing and bunny hops.
+  A modified version of JackBoi's <a href="https://www.teamfortress.tv/61625/speedometer-in-any-hud">speedometer</a> that displays horizontal velocity exclusively, making it easier to track speed gained through strafing and perfect bunny hops.
 </p>
 <div align="center">
 <table>
@@ -50,6 +50,11 @@
     </td>
     <td align="center">
       <img src="https://cdn.discordapp.com/attachments/1482291354049581166/1557074782879744081/ezgif-80d021254041e04d.gif?backend=b2&ex=6ac67a65&is=6ac528e5&hm=0b9d31d5b0159d628d322111430e04097d6b1992e49cce2b0bb3bc9d26bda52e&" alt="Sniper-Pyro-Engi Gain Specialized">
+    </td>
+  </tr>
+  <tr>
+    <td align="center" colspan="4">
+      <sub><b>Note:</b> Each option covers the full speed range from 0 to 3500.</sub>
     </td>
   </tr>
 </table>
