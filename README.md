@@ -6,7 +6,7 @@
   </tr>
   <tr>
     <td align="center" colspan="4">
-      <img src="https://placehold.co/600x200?text=Generic" alt="Generic" width="600">
+      <img src="https://cdn.discordapp.com/attachments/1482291354049581166/1557074782879744081/ezgif-80d021254041e04d.gif?backend=b2&ex=6ac67a65&is=6ac528e5&hm=0b9d31d5b0159d628d322111430e04097d6b1992e49cce2b0bb3bc9d26bda52e&" alt="Generic">
     </td>
   </tr>
   <!-- Layer 2: Base + Specialized -->
@@ -18,16 +18,16 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://placehold.co/200x150?text=Spy" alt="Spy" width="200">
+      <img src="https://cdn.discordapp.com/attachments/1482291354049581166/1557074782879744081/ezgif-80d021254041e04d.gif?backend=b2&ex=6ac67a65&is=6ac528e5&hm=0b9d31d5b0159d628d322111430e04097d6b1992e49cce2b0bb3bc9d26bda52e&" alt="Spy">
     </td>
     <td align="center">
-      <img src="https://placehold.co/200x150?text=Spy+Specialized" alt="Spy Specialized" width="200">
+      <img src="https://cdn.discordapp.com/attachments/1482291354049581166/1557074782879744081/ezgif-80d021254041e04d.gif?backend=b2&ex=6ac67a65&is=6ac528e5&hm=0b9d31d5b0159d628d322111430e04097d6b1992e49cce2b0bb3bc9d26bda52e&" alt="Spy Specialized">
     </td>
     <td align="center">
-      <img src="https://placehold.co/200x150?text=Sniper-Pyro-Engi" alt="Sniper-Pyro-Engi" width="200">
+      <img src="https://cdn.discordapp.com/attachments/1482291354049581166/1557074782879744081/ezgif-80d021254041e04d.gif?backend=b2&ex=6ac67a65&is=6ac528e5&hm=0b9d31d5b0159d628d322111430e04097d6b1992e49cce2b0bb3bc9d26bda52e&" alt="Sniper-Pyro-Engi">
     </td>
     <td align="center">
-      <img src="https://placehold.co/200x150?text=Sniper-Pyro-Engi+Specialized" alt="Sniper-Pyro-Engi Specialized" width="200">
+      <img src="https://cdn.discordapp.com/attachments/1482291354049581166/1557074782879744081/ezgif-80d021254041e04d.gif?backend=b2&ex=6ac67a65&is=6ac528e5&hm=0b9d31d5b0159d628d322111430e04097d6b1992e49cce2b0bb3bc9d26bda52e&" alt="Sniper-Pyro-Engi Specialized">
     </td>
   </tr>
   <!-- Layer 3: Gain -->
@@ -39,16 +39,16 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://placehold.co/200x150?text=Spy+Gain" alt="Spy Gain" width="200">
+      <img src="https://cdn.discordapp.com/attachments/1482291354049581166/1557074782879744081/ezgif-80d021254041e04d.gif?backend=b2&ex=6ac67a65&is=6ac528e5&hm=0b9d31d5b0159d628d322111430e04097d6b1992e49cce2b0bb3bc9d26bda52e&" alt="Spy Gain">
     </td>
     <td align="center">
-      <img src="https://placehold.co/200x150?text=Spy+Gain+Specialized" alt="Spy Gain Specialized" width="200">
+      <img src="https://cdn.discordapp.com/attachments/1482291354049581166/1557074782879744081/ezgif-80d021254041e04d.gif?backend=b2&ex=6ac67a65&is=6ac528e5&hm=0b9d31d5b0159d628d322111430e04097d6b1992e49cce2b0bb3bc9d26bda52e&" alt="Spy Gain Specialized">
     </td>
     <td align="center">
-      <img src="https://placehold.co/200x150?text=Sniper-Pyro-Engi+Gain" alt="Sniper-Pyro-Engi Gain" width="200">
+      <img src="https://cdn.discordapp.com/attachments/1482291354049581166/1557074782879744081/ezgif-80d021254041e04d.gif?backend=b2&ex=6ac67a65&is=6ac528e5&hm=0b9d31d5b0159d628d322111430e04097d6b1992e49cce2b0bb3bc9d26bda52e&" alt="Sniper-Pyro-Engi Gain">
     </td>
     <td align="center">
-      <img src="https://placehold.co/200x150?text=Sniper-Pyro-Engi+Gain+Specialized" alt="Sniper-Pyro-Engi Gain Specialized" width="200">
+      <img src="https://cdn.discordapp.com/attachments/1482291354049581166/1557074782879744081/ezgif-80d021254041e04d.gif?backend=b2&ex=6ac67a65&is=6ac528e5&hm=0b9d31d5b0159d628d322111430e04097d6b1992e49cce2b0bb3bc9d26bda52e&" alt="Sniper-Pyro-Engi Gain Specialized">
     </td>
   </tr>
 </table>
