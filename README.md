@@ -1,6 +1,6 @@
 <h1 align="center">Horizontal Velocity Speedometer for Any TF2 HUD</h1>
-<p>
-  Based on JackBoi's <a href="https://www.teamfortress.tv/61625/speedometer-in-any-hud">speedometer</a>, this version displays horizontal velocity exclusively, allowing you to track speed gained through strafing and consecutive perfect bunny hops without vertical velocity affecting the readings.
+<p align="center">
+  A modified version of JackBoi's <a href="https://www.teamfortress.tv/61625/speedometer-in-any-hud">speedometer</a> that displays horizontal velocity exclusively, making it easier to track speed gained through strafing and perfect bunny hops.
 </p>
 <div align="center">
 <table>
